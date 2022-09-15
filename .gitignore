@@ -1,0 +1,5 @@
+node_modules
+cache.log
+database.log
+collection.log
+package-lock.json
